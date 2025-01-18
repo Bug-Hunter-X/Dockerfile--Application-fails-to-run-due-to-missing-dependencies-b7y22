@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles where the application fails to run inside the container due to missing dependencies or incorrect file paths. The original Dockerfile lacks proper dependency management and error handling, resulting in cryptic error messages. The solution demonstrates a more robust approach.
